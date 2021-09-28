@@ -31,7 +31,7 @@ def softmaxFunction(x):
 
 step = stepFunction(30);
 sigmoid = sigmoidFunction(20)
-hyper = tahnFunction(2);
+hyper = tahnFunction(2.1);
 relu = reluFunction(110)
 liner = linearFunction(-110)
 
